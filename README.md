@@ -10,3 +10,8 @@ Robust servomechanism theory and Luenberger observer design is used in the desig
 project is divided in 2 parts, namely A and B. Part A consists of designing the closed loop
 system with the design requirements mentioned, using full state feedback first, and then using
 output feedback with Acceleration and pitch rate as the outputs
+
+In part B, the designed closed loop system is then incorporated in the guidance law and
+minimum miss distance is evaluated. At this time changes in design are made if required. To
+aid in the design process, design charts are created at all significant points.
+
