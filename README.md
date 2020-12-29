@@ -2,6 +2,8 @@
 This is a course project for EML6934 (Robust control-Aero) offered at the department of Mechanical and Aerospace engineering at University of Florida in Fall 2020 
 For any questions please contact me at mustafapoonawala@ufl.edu
 
+The commented MATLAB scripts and a short report is provided in PDF format. 
+
 ## SUMMARY
 In this project an output feedback system to track the vertical acceleration of a medium range air-to-air missile (MRAAM) is
 designed and used in a True proportional navigation guidance law to intercept a target drone
