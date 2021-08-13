@@ -16,7 +16,7 @@ minimum miss distance is evaluated. At this time changes in design are made if r
 * Open loop plant: <br/>
 The open loop plant’s A and B matrices are given in the problem statement. The states
 of the open loop plant are [α,β,p,q,r] and the inputs are the control surface deflections
-[δa,δe,δr]. <br/>
+[δa,δe,δr]. <br/> <!---->
 Following are the open loop matrices provided.
 
 
