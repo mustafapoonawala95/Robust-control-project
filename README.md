@@ -18,6 +18,6 @@ The open loop plant’s A and B matrices are given in the problem statement. The
 of the open loop plant are [α,β,p,q,r] and the inputs are the control surface deflections
 [δa,δe,δr].<br/> 
 <!---->
-Following are the open loop matrices provided.
+<!--Following are the open loop matrices provided.-->
 
 
