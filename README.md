@@ -12,9 +12,14 @@ output feedback with Acceleration and pitch rate as the outputs. Design charts a
 **In part B, the designed closed loop system is then incorporated in the guidance law and
 minimum miss distance is evaluated. At this time changes in design are made if required.**
 
-###  PART A
-#### Design requirements.
+###  PART A (Autopilot Design)
+#### Design requirements:
 * At least 6 dB of gain and 35 degrees of phase margin.
+* Maximum fin displacement of 35 degrees.
+* Maximum fin rate of 350 degrees per second
+* Loop gain at input crossover frequency less than 1/3 the actuator natural frequency.
+* Percent undershoot less than 10%.
+* 
 <!---->
 <!--Following are the open loop matrices provided.-->
 
