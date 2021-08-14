@@ -32,7 +32,8 @@ with a -20-degree heading error. Upon firing the missile, the drone pulls an eva
 acceleration maneuver normal to its velocity vector. <br/>
 Simulate the above scenario with the nonlinear proportional navigation law, integrate the missile autopilot in the guidance homing loop and achieve a minimum miss distance from the target. The structural limitations of the missile allow for a maximum 20g acceleration.
 <!---->
-![](images/missile.png) <br/>
+![](images/missile.png) 
+**Blue: missile Red: Target drone**  <br/>
 ![](images/miss2.png) <br/>
 
 
