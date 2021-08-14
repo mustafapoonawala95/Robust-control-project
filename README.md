@@ -25,6 +25,12 @@ minimum miss distance is evaluated. At this time changes in design are made if r
 * Real part of the closed loop compensator eigenvalues greater than -500.  
 <!---->
 ### PART B (Drone Intercept Simulation)
+The pilot identifies the oncoming drone at the altitude of 40,000 ft. The drone is approaching the 
+piloted aircraft head on and flying with zero flight path angle at 300 ft/s resolved in the x-axis of 
+the drone body coordinate system that points out the nose. The pilot fires the interceptor missile 
+with a -20-degree heading error. Upon firing the missile, the drone pulls an evasive 3 g 
+acceleration maneuver normal to its velocity vector. <br/>
+Simulate the above scenario with the nonlinear proportional navigation law, integrate the missile autopilot in the guidance homing loop and achieve a minimum miss distance from the target. The structural limitations of the missile allow for a maximum 20g acceleration.
 
 <!--Following are the open loop matrices provided.-->
 
