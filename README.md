@@ -13,10 +13,8 @@ output feedback with Acceleration and pitch rate as the outputs. Design charts a
 minimum miss distance is evaluated. At this time changes in design are made if required.**
 
 ###  PART A
-* Open loop plant: <br/>
-The open loop plant’s A and B matrices are given in the problem statement. The states
-of the open loop plant are [α,β,p,q,r] and the inputs are the control surface deflections
-[δa,δe,δr].<br/> 
+#### Design requirements.
+* At least 6 dB of gain and 35 degrees of phase margin.
 <!---->
 <!--Following are the open loop matrices provided.-->
 
