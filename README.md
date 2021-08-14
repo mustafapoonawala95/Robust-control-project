@@ -31,7 +31,8 @@ the drone body coordinate system that points out the nose. The pilot fires the i
 with a -20-degree heading error. Upon firing the missile, the drone pulls an evasive 3 g 
 acceleration maneuver normal to its velocity vector. <br/>
 Simulate the above scenario with the nonlinear proportional navigation law, integrate the missile autopilot in the guidance homing loop and achieve a minimum miss distance from the target. The structural limitations of the missile allow for a maximum 20g acceleration.
-
-<!--Following are the open loop matrices provided.-->
+<!---->
+![](images/missile.png) <br/>
+![](images/miss2.png) <br/>
 
 
