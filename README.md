@@ -10,8 +10,9 @@ system with the design requirements mentioned, using full state feedback first, 
 output feedback with Acceleration and pitch rate as the outputs. Design charts are created at all significant points to get an intuition of the trends and aid in choosing the optimal gains.**
 
 **In part B, the designed closed loop system is then incorporated in the guidance law and
-minimum miss distance is evaluated. At this time changes in design are made if required.** <br/>
-**Please refer to the Report pdf for details**
+minimum miss distance is evaluated. At this time changes in design are made if required.**  <br/>
+
+**Please refer to the Report pdf for detailed design description**
 
 ###  PART A (Autopilot Design)
 #### Design requirements:
