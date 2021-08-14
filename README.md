@@ -19,8 +19,13 @@ minimum miss distance is evaluated. At this time changes in design are made if r
 * Maximum fin rate of 350 degrees per second
 * Loop gain at input crossover frequency less than 1/3 the actuator natural frequency.
 * Percent undershoot less than 10%.
-* 
+* Percent overshoot less than 10%.
+* Sensitivity and co-sensitivity less than 6dB over 1e-1 to 1e3 rad/s.
+* Compensator loop gain within 0.25 Hz of the LQR loop gain at the plant input.
+* Real part of the closed loop compensator eigenvalues greater than -500.  
 <!---->
+### PART B (Drone Intercept Simulation)
+
 <!--Following are the open loop matrices provided.-->
 
 
