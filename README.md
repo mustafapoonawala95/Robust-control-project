@@ -12,7 +12,7 @@ output feedback with Acceleration and pitch rate as the outputs. Design charts a
 **In part B, the designed closed loop system is then incorporated in the guidance law and
 minimum miss distance is evaluated. At this time changes in design are made if required.**  <br/>
 
-**Please refer to the Report pdf for detailed design description**
+**Please refer to the Report pdf for detailed design description.**
 
 ###  PART A (Autopilot Design)
 #### Design requirements:
